@@ -1,9 +1,9 @@
-<h2> Docker </h2>
+## Docker
 
-<h3> Install docker 19.01</h3>
+### Install docker 19.01
 
-<h4> Docker for linux </h4>
+#### Docker for linux
 - Docker [Linux - getting started](https://docs.docker.com/install/linux/docker-ce/ubuntu)
 
-<h4> Docker for windows </h4>
+#### Docker for windows
 - Docker [Windows - getting started](https://docs.docker.com/docker-for-windows/install)
