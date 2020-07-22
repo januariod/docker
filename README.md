@@ -1,29 +1,9 @@
-# README #
+<h2> Docker </h2>
 
-This README would normally document whatever steps are necessary to get your application up and running.
+<h3> Install docker 19.01</h3>
 
-### What is this repository for? ###
+<h4> Docker for linux </h4>
+- Docker [Linux - getting started](https://docs.docker.com/install/linux/docker-ce/ubuntu)
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+<h4> Docker for windows </h4>
+- Docker [Windows - getting started](https://docs.docker.com/docker-for-windows/install)

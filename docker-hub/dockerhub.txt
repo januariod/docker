@@ -1,0 +1,7 @@
+tag iamge
+
+# docker image tag debian danieljanuario/ubuntu-debian:1.0
+
+push image to docker hub
+
+# docker image push ubuntu-debian:1.0
